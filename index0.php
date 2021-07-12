@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!--
-	Brought to You By Code-Projects. Log On To www.code-projects.org for more free projects.
+
 -->
 <html lang="en">
 	<head>
@@ -40,7 +40,7 @@
 		<!-- Banner -->
 			<section id="banner">
 				<h2>Welcome to BookMyBusTicket</h2>
-				<p>Quick Search <br> Online Bookings <br> Pay Online <br> Hassle Free Bus Booking<br>Brought To You By code-projects.org</p>
+				<p>Quick Search <br> Online Bookings <br> Pay Online <br> Hassle Free Bus Booking<br>Brought To You By bike rental system</p>
 				<ul class="actions">
 					<li>
 						<a href="#about" class="button big">Learn More</a>
@@ -121,7 +121,7 @@
 								<li>Online Bookings</li>
 								<li>Pay Online</li>
 								<li>Hassle Free Bus Booking</li>
-								<li><a href="https://code-projects.org/">Code-Projects</a> </li>
+								<li><a href="#">CodeProject</a> </li>
 							</ul>
 						</section>
 						<section class="4u 6u$(medium) 12u$(small)">
@@ -146,11 +146,11 @@
 								<li>
 									<h3>Address</h3>
 									ABC Road<br>
-									<a href="https://code-projects.org/">Code-Projects</a> 521126
+									<a href="#">CodeProject</a> 521126
 								</li>
 								<li>
 									<h3>Mail</h3>
-									<a href="#">codeprojectsorg@gmail.com</a>
+									<a href="#">moizrauf03@gmail.com</a>
 								</li>
 								<li>
 									<h3>Phone</h3>
@@ -161,7 +161,7 @@
 					</center>
 					</div>
 					<ul class="copyright">
-						<li>&copy; 2017 BookMyBusTicket. All rights reserved. Brought To You By <a href="https://code-projects.org/">Code-Projects</a></li>
+						<li>&copy; 2017 BookMyBusTicket. All rights reserved. Brought To You By <a href="#">Code-Projects</a></li>
 			<!--			<li>Design: <a href="http://templated.co">TEMPLATED</a></li>
 						<li>Images: <a href="http://unsplash.com">Unsplash</a></li>
 				-->	</ul>

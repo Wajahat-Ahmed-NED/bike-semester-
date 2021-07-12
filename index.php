@@ -14,7 +14,7 @@ error_reporting(0);
 <meta name="keywords" content="">
 <meta name="description" content="">
 <title>Bike Selling Store</title>
-<!--Bootstrap --> moiz
+<!--Bootstrap --> 
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 <link rel="stylesheet" href="assets/css/styles.css" type="text/css">
 <link rel="stylesheet" href="assets/css/owl.carousel.css" type="text/css">
