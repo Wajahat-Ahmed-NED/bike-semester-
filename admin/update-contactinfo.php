@@ -34,7 +34,7 @@ $msg="Info Updateed successfully";
 	<meta name="author" content="">
 	<meta name="theme-color" content="#3e454c">
 
-	<title>Bike Rental Portal | Admin Create Brand</title>
+	<title>Bike Selling System  | Admin Create Brand</title>
 
 	<!-- Font awesome -->
 	<link rel="stylesheet" href="css/font-awesome.min.css">

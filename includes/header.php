@@ -11,18 +11,18 @@
             <div class="header_widgets">
               <div class="circle_icon"> <i class="fa fa-envelope" aria-hidden="true"></i> </div>
               <p class="uppercase_text">For Support Mail us : </p>
-              <a href="mailto:info@example.com">codeprojectsorg@gmail.com</a> </div>
+              <a href="mailto:info@example.com">moizrauf03@gamil.com</a> </div>
             <div class="header_widgets">
               <div class="circle_icon"> <i class="fa fa-phone" aria-hidden="true"></i> </div>
               <p class="uppercase_text">Service Helpline Call Us: </p>
               <a href="tel:61-1234-5678-09">+91-9876543210</a> </div>
             <div class="social-follow">
               <ul>
-                <li><a href="https://code-projects.org/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-                <li><a href="https://code-projects.org/"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-                <li><a href="https://code-projects.org/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-                <li><a href="https://code-projects.org/"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a></li>
-                <li><a href="https://code-projects.org/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                <li><a href="www.facebook.com/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
+                <li><a href="www.twitter.com/"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                <li><a href="www.linkedin.com/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+                <li><a href="www.googel.com/"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a></li>
+                <li><a href="www.instagram.com/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
               </ul>
             </div>
    <?php   if(strlen($_SESSION['login'])==0)
