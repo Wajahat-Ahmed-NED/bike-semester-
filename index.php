@@ -53,8 +53,8 @@ error_reporting(0);
       <div class="row">
         <div class="col-md-5 col-md-push-7">
           <div class="banner_content">
-            <h1>Find Your Perfect bike</h1>
-            <p>We have more than a thousand bikes for you to choose. </p>
+            <h1>Find Bike You Love</h1>
+            <p>We deal in all kinds of Bikes of all the Brands </p>
             <a href="#" class="btn">Read More <span class="angle_arrow"><i class="fa fa-angle-right" aria-hidden="true"></i></span></a> </div>
         </div>
       </div>
@@ -135,7 +135,7 @@ foreach($results as $result)
       <div class="col-lg-3 col-xs-6 col-sm-3">
         <div class="fun-facts-m">
           <div class="cell">
-            <h2><i class="fa fa-motorcycle " aria-hidden="true"></i>1000+</h2>
+            <h2><i class="fa fa-motorcycle " aria-hidden="true"></i>1089+</h2>
             <p>New Bikes For Sale</p>
           </div>
         </div>

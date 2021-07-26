@@ -11,11 +11,13 @@
             <div class="header_widgets">
               <div class="circle_icon"> <i class="fa fa-envelope" aria-hidden="true"></i> </div>
               <p class="uppercase_text">For Support Mail us : </p>
-              <a href="mailto:info@example.com">moizrauf03@gamil.com</a> </div>
+              <a href="mailto:info@example.com">moizrauf03@yahoo.com</a>
+              <a href="mailto:info@example.com">wajahatalimay2001@hotmail.com</a> </div>
             <div class="header_widgets">
               <div class="circle_icon"> <i class="fa fa-phone" aria-hidden="true"></i> </div>
               <p class="uppercase_text">Service Helpline Call Us: </p>
-              <a href="tel:61-1234-5678-09">+91-9876543210</a> </div>
+              <a href="tel:61-1234-5678-09">+92-3242926776</a><br> 
+              <a href="tel:61-1234-5678-09">+92-3362094515</a> </div>
             <div class="social-follow">
               <ul>
                 <li><a href="www.facebook.com/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
@@ -28,7 +30,7 @@
    <?php   if(strlen($_SESSION['login'])==0)
 	{
 ?>
- <div class="login_btn"> <a href="#loginform" class="btn btn-xs uppercase" data-toggle="modal" data-dismiss="modal">Login / Register</a> </div>
+ <div class="login_btn "> <a href="#loginform"  " class="btn btn-xs uppercase" data-toggle="modal" data-dismiss="modal">Login / Sign up </a> </div>
 <?php }
 else{
 
@@ -95,9 +97,9 @@ foreach($results as $result)
         <ul class="nav navbar-nav">
           <li><a href="index.php">Home</a>    </li>
 
-          <li><a href="page.php?type=aboutus">About Us</a></li>
           <li><a href="bike-listing.php">Bike Listing</a>
           <li><a href="page.php?type=faqs">FAQs</a></li>
+          <li><a href="page.php?type=aboutus">About Us</a></li>
           <li><a href="contact-us.php">Contact Us</a></li>
 
         </ul>
