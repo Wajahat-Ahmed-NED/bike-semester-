@@ -34,7 +34,7 @@
 <?php }
 else{
 
-echo "Welcome To Bike rental portal";
+echo "Bike Selling Services(BSS)";
  } ?>
           </div>
         </div>
