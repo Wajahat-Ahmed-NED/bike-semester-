@@ -4,7 +4,8 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-3 col-md-2">
-          <div class="logo"> <a href="index.php"><img src="assets/images/logg2.png" alt="image"/></a> </div>
+          <div class="logo"> <a href="index.php"><img src="assets/images/logg22.png" alt="image"/></a> 
+        </div>
         </div>
         <div class="col-sm-9 col-md-10">
           <div class="header_info">
@@ -30,7 +31,7 @@
    <?php   if(strlen($_SESSION['login'])==0)
 	{
 ?>
- <div class="login_btn "> <a href="#loginform"  " class="btn btn-xs uppercase" data-toggle="modal" data-dismiss="modal">Login / Sign up </a> </div>
+ <div class="login_btn "> <a href="#loginform"   class="btn btn-xs uppercase" data-toggle="modal" data-dismiss="modal">Login / Sign up </a> </div>
 <?php }
 else{
 
