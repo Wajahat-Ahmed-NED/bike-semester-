@@ -127,7 +127,8 @@ foreach($results as $result)
       <div class="col-lg-3 col-xs-6 col-sm-3">
         <div class="fun-facts-m">
           <div class="cell">
-            <h2><i class="fa fa-calendar" aria-hidden="true"></i>40+</h2>
+            <h2><i class="fa fa-calendar" aria-hidden="true"></i></h2>
+            <h2 id="h2" >40+</h2>
             <p>Years In Business</p>
           </div>
         </div>
@@ -135,7 +136,8 @@ foreach($results as $result)
       <div class="col-lg-3 col-xs-6 col-sm-3">
         <div class="fun-facts-m">
           <div class="cell">
-            <h2><i class="fa fa-motorcycle " aria-hidden="true"></i>1089+</h2>
+            <h2><i class="fa fa-motorcycle " aria-hidden="true"></i></h2>
+            <h2  >1089+</h2>
             <p>New Bikes For Sale</p>
           </div>
         </div>
@@ -143,7 +145,8 @@ foreach($results as $result)
       <div class="col-lg-3 col-xs-6 col-sm-3">
         <div class="fun-facts-m">
           <div class="cell">
-            <h2><i class="fa fa-motorcycle " aria-hidden="true"></i>999+</h2>
+            <h2><i class="fa fa-motorcycle " aria-hidden="true"></i></h2>
+            <h2 >999+</h2>
             <p>Used Bikes For Sale</p>
           </div>
         </div>
@@ -151,7 +154,8 @@ foreach($results as $result)
       <div class="col-lg-3 col-xs-6 col-sm-3">
         <div class="fun-facts-m">
           <div class="cell">
-            <h2><i class="fa fa-user-circle-o" aria-hidden="true"></i>850+</h2>
+            <h2><i class="fa fa-user-circle-o" aria-hidden="true"></i></h2>
+            <h2  >850+</h2>
             <p>Satisfied Customers</p>
           </div>
         </div>
@@ -233,6 +237,8 @@ foreach($results as $result)
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
 <script src="assets/js/interface.js"></script>
+<script src="assets/js/counter.js"></script>
+
 <!--Switcher-->
 <script src="assets/switcher/js/switcher.js"></script>
 <!--bootstrap-slider-JS-->

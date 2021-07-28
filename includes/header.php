@@ -20,11 +20,11 @@
               <a href="tel:61-1234-5678-09">+92-3362094515</a> </div>
             <div class="social-follow">
               <ul>
-                <li><a href="www.facebook.com/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
-                <li><a href="www.twitter.com/"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
-                <li><a href="www.linkedin.com/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
-                <li><a href="www.googel.com/"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a></li>
-                <li><a href="www.instagram.com/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.facebook.com/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.twitter.com/"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.linkedin.com/"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.google.com/"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a></li>
+                <li><a href="https://www.instagram.com/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
               </ul>
             </div>
    <?php   if(strlen($_SESSION['login'])==0)
