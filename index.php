@@ -5,7 +5,9 @@ error_reporting(0);
 
 ?>
 
+
 <!DOCTYPE HTML>
+
 <html lang="en">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
