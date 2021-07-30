@@ -1,9 +1,9 @@
 <?php
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','bikerental');
+define('DB_HOST','remotemysql.com');
+define('DB_USER','BPl0WE4WNy');
+define('DB_PASS','5qMfBaL3bS');
+define('DB_NAME','BPl0WE4WNy');
 // Establish database connection.
 try
 {
