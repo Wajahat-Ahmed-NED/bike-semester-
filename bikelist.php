@@ -79,7 +79,7 @@ error_reporting(0);
       <div class="col-md-9 col-md-push-3">
         <div class="result-sorting-wrapper">
           <div class="sorting-count">
-<?php
+sdfgsdg<?php
 //Query for Listing count
 $sql = "SELECT id from tblvehicles";
 $query = $dbh -> prepare($sql);
