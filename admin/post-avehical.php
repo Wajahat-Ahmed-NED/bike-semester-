@@ -297,7 +297,7 @@ Image 5<input type="file" name="img5">
 <div class="col-sm-3">
 <div class="checkbox checkbox-inline">
 <input type="checkbox" id="leatherseats" name="leatherseats" value="1">
-<label for="leatherseats"> Leather Seats </label>
+<label for="leatherseats"> Crash Guards </label>
 </div>
 </div>
 </div>
