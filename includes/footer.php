@@ -79,7 +79,7 @@ echo "<script>alert('Something went wrong. Please try again');</script>";
           </div>
         </div>
         <div class="col-md-6 col-md-pull-6">
-          <p class="copy-right">Copyright &copy; 2021 Bike Selling Store. Brought To You By <a href=#> WEB ENGINEERING SEMESTER PROJECT BY Abdul Moiz(22) & Wajhat Ahmed(38)</a></p>
+          <p class="copy-right">Copyright &copy; 2021 Bike Selling Store. Brought To You By <a href="#"> WEB ENGINEERING SEMESTER PROJECT BY Abdul Moiz(22) & Wajahat Ahmed(38)</a></p>
         </div>
       </div>
     </div>
