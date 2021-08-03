@@ -209,7 +209,7 @@ foreach($results as $result)
 <div class="col-sm-4">
 <input type="text" name="modelyear" class="form-control" required>
 </div>
-<label class="col-sm-2 control-label">Seating Capacity<span style="color:red">*</span></label>
+<label class="col-sm-2 control-label">Strokes<span style="color:red">*</span></label>
 <div class="col-sm-4">
 <input type="text" name="seatingcapacity" class="form-control" required>
 </div>
