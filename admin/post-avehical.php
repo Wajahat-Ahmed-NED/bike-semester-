@@ -268,7 +268,7 @@ Image 5<input type="file" name="img5">
 </div></div>
 <div class="checkbox checkbox-inline">
 <input type="checkbox" id="brakeassist" name="brakeassist" value="1">
-<label for="brakeassist"> Brake Assist </label>
+<label for="brakeassist"> Anti Theft Lock </label>
 </div>
 </div>
 
