@@ -287,7 +287,7 @@ Image 5<input type="file" name="img5">
 <div class="col-sm-3">
 <div class="checkbox h checkbox-inline">
 <input type="checkbox" id="centrallocking" name="centrallocking" value="1">
-<label for="centrallocking">Central Locking</label>
+<label for="centrallocking">Led Light</label>
 </div></div>
 <div class="col-sm-3">
 <div class="checkbox checkbox-inline">
