@@ -292,7 +292,7 @@ Image 5<input type="file" name="img5">
 <div class="col-sm-3">
 <div class="checkbox checkbox-inline">
 <input type="checkbox" id="crashcensor" name="crashcensor" value="1">
-<label for="crashcensor"> Crash Sensor </label>
+<label for="crashcensor"> Wind Shield </label>
 </div></div>
 <div class="col-sm-3">
 <div class="checkbox checkbox-inline">
